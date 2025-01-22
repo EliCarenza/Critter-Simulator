@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="116.48625mm"
+   height="105.60532mm"
+   viewBox="0 0 116.48625 105.60531"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   sodipodi:docname="critter-01.svg"
+   inkscape:export-filename="RL Photos/critter-01.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.5130875"
+     inkscape:cx="249.15942"
+     inkscape:cy="307.64909"
+     inkscape:window-width="2510"
+     inkscape:window-height="1404"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:export-bgcolor="#ffffff00" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.56162,-48.711489)">
+    <path
+       style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 50.200665,120.18485 40.061615,81.112407 c 0,0 28.4388,-31.40633 30.664446,-31.40633 2.225646,0 69.984179,-0.494588 69.984179,-0.494588 l 14.83764,38.577853 -21.51458,39.319728 -49.211485,26.70775 z"
+       id="path1" />
+    <ellipse
+       style="fill:#000000;stroke:#040404;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="path2"
+       cx="84.821808"
+       cy="88.963982"
+       rx="6.553288"
+       ry="8.593462" />
+    <ellipse
+       style="fill:#000000;stroke:#040404;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       id="path3"
+       cx="108.06744"
+       cy="89.087639"
+       rx="6.9242287"
+       ry="8.9644041" />
+    <path
+       id="path4"
+       style="fill:#000000;stroke:#040404;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;paint-order:stroke fill markers"
+       d="m 96.833962,108.29178 c -1.90405,-0.38506 -3.963402,-1.33851 -5.956668,-1.91797 -0.850907,-0.0224 -0.610142,0.7601 0.215924,1.31096 1.256261,0.93658 3.242749,2.28085 5.619529,2.29124 2.071912,-0.06 3.686483,-1.54843 5.267043,-2.81295 0.88047,-0.83292 0.815,-1.17612 -0.0326,-0.9413 -1.50769,0.56616 -3.386965,1.7006 -5.113238,2.07002 z"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>
